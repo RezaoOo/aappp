@@ -1,0 +1,17 @@
+.gradle/
+build/
+*.apk
+*.ap_
+*.dex
+*.class
+.idea/
+*.iml
+.vscode/
+*.swp
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+eThumbs.db
+local.properties
